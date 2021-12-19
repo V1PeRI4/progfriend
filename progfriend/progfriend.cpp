@@ -6,6 +6,7 @@ https://wpcalc.com/vozvedenie-eksponenta-v-stepen/ калькулятор для
 А лучше всего решать самим) удачи
 */
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 double fact(int N) //функция для факториала
